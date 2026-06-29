@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## 📌 Project Overview
+## Project Overview
 
 This is a responsive personal portfolio website developed as part of the **Oasis Infobyte Web Development Internship (OIBSIP)**.
 
@@ -8,7 +8,7 @@ The portfolio showcases my profile, skills, projects, education, and contact inf
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -18,7 +18,7 @@ The portfolio showcases my profile, skills, projects, education, and contact inf
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive Navigation Bar
 - Hero Section
@@ -32,7 +32,7 @@ The portfolio showcases my profile, skills, projects, education, and contact inf
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 WebDev-L1-PersonalPortfolio/
@@ -45,7 +45,7 @@ WebDev-L1-PersonalPortfolio/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
@@ -69,7 +69,7 @@ WebDev-L1-PersonalPortfolio/
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Name:** Nandu
 
@@ -87,7 +87,7 @@ WebDev-L1-PersonalPortfolio/
 
 ---
 
-## 📬 Contact
+## Contact
 
 **LinkedIn:**  
 https://www.linkedin.com/in/srivala-nandu-02a3bb3b0/
@@ -97,12 +97,12 @@ https://github.com/SrivalaNandu
 
 ---
 
-## 🎯 Internship
+## Internship
 
 This project was developed as **Task 2 – Personal Portfolio** for the **Oasis Infobyte Web Development Internship (OIBSIP).**
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational and internship purposes.
